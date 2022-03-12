@@ -1,0 +1,23 @@
+.image-grid{
+    max-width: 600px;
+}
+
+section{
+    padding: 10px;
+
+}
+
+.p-img{
+    display: block;
+    text-align: center;
+}
+
+.hero--text{
+    margin-top: 0;
+    padding-left: 30px;
+}
+
+.hero-header{
+    padding-bottom: 0;
+    
+}
